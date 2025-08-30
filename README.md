@@ -27,7 +27,7 @@ Language: JavaScript (ES6+)
 
 ## 📚 Key Learnings
 
-Through this project, I gained practical experience in:
+*Through this project, I gained practical experience in:*
 
 ✅ Building a React app from scratch 
 ✅ Structuring components and using props effectively 
@@ -38,7 +38,11 @@ Through this project, I gained practical experience in:
 ✅ Applying Tailwind CSS for styling
 
 ## Results /ScreenShots :
-   Copy and Search : ( https://github.com/Prabhatkumar-dev/Prabhat-s-Studio/blob/main/public/Screenshot%202025-08-30%20131343.png )
+   Copy or Click : 
+                       https://github.com/Prabhatkumar-dev/Prabhat-s-Studio/blob/main/public/Screenshot%202025-08-30%20131343.png 
+                      https://github.com/Prabhatkumar-dev/Prabhat-s-Studio/blob/main/public/Screenshot%202025-08-30%20131511.png
+                      https://github.com/Prabhatkumar-dev/Prabhat-s-Studio/blob/main/public/Screenshot%202025-08-30%20131558.png
+                      https://github.com/Prabhatkumar-dev/Prabhat-s-Studio/blob/main/public/Screenshot%202025-08-30%20131644.png
 
 ## 🚀 How to Run Locally
 
